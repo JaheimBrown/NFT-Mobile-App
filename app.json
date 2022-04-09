@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "pronef",
-    "slug": "pronef",
+    "name": "ProNFT",
+    "slug": "ProNft",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
@@ -27,6 +25,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "An UI / UX mobile app listing NFT's and bids, created using react native.",
+    "githubUrl": "https://github.com/KxngJ/NFT-Mobile-App"
   }
 }
